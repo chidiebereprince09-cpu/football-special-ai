@@ -51,9 +51,9 @@ A short-form story about Ronaldo's journey from Madeira to becoming one of footb
 A story about Messi's childhood, growth hormone deficiency and his journey toward becoming a football legend.
 
 ### Luka Modrić
-** Luka Modrić's incredible journey from rejection to football legend **
+**Luka Modrić's incredible journey from rejection to football legend**
 
-The story of Modrić's difficult childhood and his rise to the top of world football.
+The story of Modrić's difficult childhood, his journey as a refugee, and his rise to the top of world football.
 
 ### Sadio Mané
 **From Bambali to Football Stardom**
