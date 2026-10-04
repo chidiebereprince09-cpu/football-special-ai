@@ -1,4 +1,4 @@
-hi# ⚽ Football Special AI
+ ⚽ Football Special AI
 
 AI-assisted football storytelling and short-form video production project.
 
