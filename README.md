@@ -1,4 +1,4 @@
-# ⚽ Football Special AI
+hi# ⚽ Football Special AI
 
 AI-assisted football storytelling and short-form video production project.
 
@@ -86,3 +86,20 @@ football-special-ai/
 │
 └── workflow/
     └── production-workflow.md
+
+## 🚀 Future Plans
+
+- Automate football story generation
+- Automate AI image prompt generation
+- Integrate AI APIs
+- Automate voiceover generation
+- Automate video creation
+- Build a complete football content automation pipeline
+- Explore automatic publishing workflows
+## 👨‍💻 Creator
+
+**Timothy**
+
+Computer Engineering Student  
+AI & Automation Enthusiast  
+Upcoming Web Developer
