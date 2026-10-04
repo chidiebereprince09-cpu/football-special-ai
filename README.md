@@ -79,7 +79,7 @@ football-special-ai/
 │
 ├── assets/
 │   ├── thumbnails/
-│   └── logo/
+│
 │
 ├── videos/
 │   └── README.md
