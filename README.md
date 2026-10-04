@@ -51,7 +51,7 @@ A short-form story about Ronaldo's journey from Madeira to becoming one of footb
 A story about Messi's childhood, growth hormone deficiency and his journey toward becoming a football legend.
 
 ### Luka Modrić
-**From Refugee to Ballon d'Or Winner**
+** Luka Modrić's incredible journey from rejection to football legend **
 
 The story of Modrić's difficult childhood and his rise to the top of world football.
 
