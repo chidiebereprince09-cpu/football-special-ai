@@ -114,7 +114,7 @@ football-special-ai/
 
 ## 👨‍💻 Creator
 
-**Timothy**
+**Timothy chidiebere**
 
 Computer Engineering Student  
 AI & Automation Enthusiast  
