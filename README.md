@@ -1,22 +1,20 @@
- ⚽ Football Special AI
+# ⚽ Football Special AI
 
 AI-assisted football storytelling and short-form video production project.
 
-Football Special creates engaging football stories using AI-assisted scripting, image generation, voiceover, video editing, captions, music and sound effects.
+Football Special combines AI-assisted scripting, AI-generated visuals, AI voiceover, video editing, captions, music, and sound effects to create engaging football stories for short-form platforms.
 
 ## 🎯 Project Goal
 
-The goal of Football Special is to combine football storytelling with AI tools and content automation to produce engaging short-form videos for:
-
-- YouTube Shorts
-- TikTok
-- Instagram Reels
+The goal of this project is to explore how AI can be used to build a complete football content-production workflow — from an initial story idea to a finished short-form video.
 
 ## 🔄 Production Workflow
 
 Football Story
 ↓
 AI-Assisted Script
+↓
+Scene Planning & Prompts
 ↓
 AI Image Generation
 ↓
@@ -28,45 +26,63 @@ Captions + Music + Sound Effects
 ↓
 YouTube / TikTok / Instagram
 
-## 🧠 Technologies & Tools
-
-- AI-assisted content generation
-- AI image generation
-- ElevenLabs
-- CapCut
-- YouTube Shorts
-- TikTok
-- Instagram
-
 ## 🎬 Featured Stories
 
 ### Cristiano Ronaldo
+
 **The Boy Who Refused to Give Up**
 
-A short-form story about Ronaldo's journey from Madeira to becoming one of football's greatest players.
+A story about Ronaldo's journey from Madeira to becoming one of football's greatest players.
+
+▶️ [Watch on YouTube](https://youtube.com/shorts/Onvc645xhWQ?si=iGWRZmgiQrmuIugf)  
+🎵 [Watch on TikTok](https://vm.tiktok.com/ZN8kj6gHw/)
+
+---
 
 ### Lionel Messi
+
 **Why Messi Was Rejected as a Child**
 
-A story about Messi's childhood, growth hormone deficiency and his journey toward becoming a football legend.
+A story about Messi's childhood struggles, growth hormone deficiency, and his journey to the top of world football.
+
+▶️ [Watch on YouTube](https://youtube.com/shorts/d_4nMD2SViY?si=9es6dAmpVwngQ_rU)  
+🎵 [Watch on TikTok](https://vm.tiktok.com/ZN8kjDjRL/)
+
+---
 
 ### Luka Modrić
-**Luka Modrić's incredible journey from rejection to football legend**
 
-The story of Modrić's difficult childhood, his journey as a refugee, and his rise to the top of world football.
+**From Refugee to Ballon d'Or Winner**
+
+A story about Modrić's difficult childhood, his journey as a refugee, and his rise to becoming a Ballon d'Or winner.
+
+▶️ [Watch on YouTube](https://youtube.com/shorts/skW0E4pAlSY?si=FF0GjymKdMaRBqEe)  
+🎵 [Watch on TikTok](https://vm.tiktok.com/ZN8kjhFkD/)
+
+---
 
 ### Sadio Mané
+
 **From Bambali to Football Stardom**
 
-The journey of Sadio Mané from Senegal to becoming one of Africa's greatest footballers.
+🚧 Currently in production.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- AI-assisted writing
+- AI image generation
+- AI voice generation
+- Video editing
+- Git & GitHub
+- YouTube
+- TikTok
+- Instagram
 
 ## 📂 Project Structure
 
-```text
 football-special-ai/
-│
-├── README.md
-├── LICENSE
 │
 ├── scripts/
 │   ├── messi.md
@@ -78,8 +94,7 @@ football-special-ai/
 │   └── image-prompts.md
 │
 ├── assets/
-│   ├── thumbnails/
-│
+│   └── logo/
 │
 ├── videos/
 │   └── README.md
@@ -89,13 +104,14 @@ football-special-ai/
 
 ## 🚀 Future Plans
 
-- Automate football story generation
-- Automate AI image prompt generation
-- Integrate AI APIs
+- Automate script generation
+- Automate image prompt generation
+- Connect AI APIs
 - Automate voiceover generation
 - Automate video creation
-- Build a complete football content automation pipeline
+- Build a complete football content pipeline
 - Explore automatic publishing workflows
+
 ## 👨‍💻 Creator
 
 **Timothy**
@@ -103,3 +119,7 @@ football-special-ai/
 Computer Engineering Student  
 AI & Automation Enthusiast  
 Upcoming Web Developer
+
+---
+
+⭐ Thanks for visiting **Football Special AI**!
