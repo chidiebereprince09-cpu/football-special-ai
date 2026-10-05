@@ -6,7 +6,7 @@ This section showcases the finished short-form football stories created for the 
 
 | Player | YouTube | TikTok |
 |---|---|---|
-| Cristiano Ronaldo | Coming soon | Coming soon |
+| Cristiano Ronaldo | [Watch](https://youtube.com/shorts/Onvc645xhWQ?si=iGWRZmgiQrmuIugf) | [Watch](https://vm.tiktok.com/ZN8kj6gHw/) |
 | Lionel Messi | Coming soon | Coming soon |
 | Luka Modrić | Coming soon | Coming soon |
 | Sadio Mané | Coming soon | Coming soon |
